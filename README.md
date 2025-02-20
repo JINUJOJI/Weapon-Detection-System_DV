@@ -1,2 +1,5 @@
 # Weapon-Detection-System_DV
- The first project of dv lab weapon detection system
+ Our project aims to create a smart weapon detection system that enhances security and safety. By using computer vision and deep learning, it can quickly identify weapons in real-time and alert authorities. This helps prevent potential threats before they escalate, ensuring a safer environment. The system is designed to work with surveillance cameras, making public spaces more secure and responsive to risks.
+
+ EXPLANATION OF OUR PROJECT:
+ Our project develops an AI-powered weapon detection system that integrates with surveillance cameras for real-time threat identification. Using deep learning models like YOLO, it accurately detects weapons such as guns and knives while minimizing false alarms. When a weapon is identified, the system sends instant alerts to security personnel via a web dashboard or mobile notifications. Optimized for real-time performance, it can run on various hardware setups, enhancing security in public spaces. Future improvements may include facial recognition and behavior analysis for better threat assessment.
