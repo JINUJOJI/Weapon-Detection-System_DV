@@ -1,0 +1,16 @@
+# YOLO Weights Download Instructions
+
+The YOLO model weights are too large to be stored in this GitHub repository.  
+You can download the required weights from the following link:
+File name of the YOLO weights file is: yolov3_training_2000.weights
+
+📌 **Download Link**: [https://drive.google.com/file/d/1aloA_cVwo_tXjULfLircemOwzncN2d7c/view?usp=sharing]
+
+## Steps to Use:
+1. Click the above link and download the file (`yolov5s.pt` or relevant weights).
+2. Move the downloaded file to the correct directory in your local project:
+
+3. Run the project as usual.
+
+If you face any issues, feel free to contact the project maintainers.
+
